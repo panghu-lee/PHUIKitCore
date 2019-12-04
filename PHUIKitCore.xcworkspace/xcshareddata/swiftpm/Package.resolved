@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PHFoundation",
+        "repositoryURL": "git@github.com:panghu-lee/PHFoundation.git",
+        "state": {
+          "branch": "master",
+          "revision": "33f8d24e96fadd8667b1eff221674d5063addabb",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
