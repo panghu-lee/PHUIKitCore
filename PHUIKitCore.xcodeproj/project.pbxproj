@@ -13,6 +13,7 @@
 		607A92BF2397D7BA002CD407 /* UITableViewRegister.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607A92BE2397D7BA002CD407 /* UITableViewRegister.swift */; };
 		60D26C13241230A500FF060E /* UIGraphics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D26C12241230A500FF060E /* UIGraphics.swift */; };
 		60D26C162412333000FF060E /* PHFoundation in Frameworks */ = {isa = PBXBuildFile; productRef = 60D26C152412333000FF060E /* PHFoundation */; };
+		60D26C182412346B00FF060E /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D26C172412346B00FF060E /* UIViewController.swift */; };
 		60F9FBAD2397BEE900D012E8 /* PHUIKitCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 60F9FBAB2397BEE900D012E8 /* PHUIKitCore.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 		607A92BC2397D79D002CD407 /* UICollectionViewRegister.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UICollectionViewRegister.swift; sourceTree = "<group>"; };
 		607A92BE2397D7BA002CD407 /* UITableViewRegister.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableViewRegister.swift; sourceTree = "<group>"; };
 		60D26C12241230A500FF060E /* UIGraphics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIGraphics.swift; sourceTree = "<group>"; };
+		60D26C172412346B00FF060E /* UIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewController.swift; sourceTree = "<group>"; };
 		60F9FBA82397BEE900D012E8 /* PHUIKitCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PHUIKitCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		60F9FBAB2397BEE900D012E8 /* PHUIKitCore.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHUIKitCore.h; sourceTree = "<group>"; };
 		60F9FBAC2397BEE900D012E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				60F9FBAB2397BEE900D012E8 /* PHUIKitCore.h */,
 				60D26C12241230A500FF060E /* UIGraphics.swift */,
+				60D26C172412346B00FF060E /* UIViewController.swift */,
 				607A923F2397D302002CD407 /* CALayerLayout.swift */,
 				607A92BA2397D6D1002CD407 /* UIViewLayout.swift */,
 				607A92BE2397D7BA002CD407 /* UITableViewRegister.swift */,
@@ -167,6 +170,7 @@
 			files = (
 				60D26C13241230A500FF060E /* UIGraphics.swift in Sources */,
 				607A92BD2397D79D002CD407 /* UICollectionViewRegister.swift in Sources */,
+				60D26C182412346B00FF060E /* UIViewController.swift in Sources */,
 				607A92412397D49B002CD407 /* CALayerLayout.swift in Sources */,
 				607A92BB2397D6D1002CD407 /* UIViewLayout.swift in Sources */,
 				607A92BF2397D7BA002CD407 /* UITableViewRegister.swift in Sources */,
