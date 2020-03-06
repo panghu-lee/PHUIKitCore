@@ -20,6 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window = UIWindow(frame: UIScreen.main.bounds)
         window?.rootViewController = NavigationController(rootViewController: UIViewController())
         window?.makeKeyAndVisible()
+        
         return true
     }
 }
